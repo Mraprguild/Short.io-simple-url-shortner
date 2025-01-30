@@ -7,7 +7,7 @@ l
 # Steps to Create the Web App
 #Sign Up for Short.io API:
 
-Go to <herf short.io/and create an account.
+Go to https://short.io/ and create an account.
 
 Obtain your API key from the dashboard.
 
